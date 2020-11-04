@@ -10,6 +10,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Xamarin.Forms" Version="4.4.0.991640"/>
+        <PackageReference Include="Mapsui.Forms" Version="2.0.3" />
+        <PackageReference Include="Xamarin.Forms" Version="4.8.0.1560" />
     </ItemGroup>
 </Project>
